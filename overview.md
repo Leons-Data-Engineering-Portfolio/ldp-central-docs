@@ -3,7 +3,7 @@
   - API's
   - CSV files
 -  Orchestration:
-  - Apache Airflow
+    - Apache Airflow
 - Data Storage:
    - Data Warehouse (PostgreSQL):
      - RAW_DATA: Unprocessed raw data (structured)
