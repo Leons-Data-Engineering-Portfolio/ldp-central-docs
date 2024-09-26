@@ -56,7 +56,7 @@ This is the overview of the pipeline design.
 
 ### Data Warehouse Architecture 
 
-![Local image in a subdirectory](images/architecture/ldp_data_architecture_overview_lvl1.drawio.png)
+![Local image in a subdirectory](images/architecture/ldp_dwh_architecture_lvl1.drawio.png)
 
 ---
 
