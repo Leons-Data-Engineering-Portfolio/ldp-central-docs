@@ -36,3 +36,27 @@
 
 - Use a BI tool like **Apache Superset** to create dashboards and visualizations based on the transformed data stored in the `SUMMARIZE_DATA` schema.
 - Connect Superset to PostgreSQL to directly query the transformed data for visualization.
+
+## Architecture
+
+### Pipeline Architecture 
+
+![Local image in a subdirectory](images/architecture/ldp_data_architecture_overview_lvl1.drawio.png)
+
+---
+
+### Pyhton ETL Architecture 
+
+![Local image in a subdirectory](images/architecture/ldp_py_etl_architecture_overview_lvl1.drawio.png)
+
+---
+
+### Data Warehouse Architecture 
+
+![Local image in a subdirectory](images/architecture/ldp_data_architecture_overview_lvl1.drawio.png)
+
+---
+
+### Complete Pipeline Architecture 
+
+![Local image in a subdirectory](images/architecture/ldp_data_architecture_overview_all_lvl1.drawio.png)
